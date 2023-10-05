@@ -4,7 +4,6 @@ provider "aws" {
   region = "us-east-1"
 }
 
-
 # VPC 1
 # You can add more resources specific to each VPC here, such as subnets, security groups, and route tables.
 
